@@ -1,1 +1,3 @@
 Olá mundo, bem vindo ao Git.
+
+Este é um arquivo da aula de Git do curso de Fullstack da Digital House.
